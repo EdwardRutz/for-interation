@@ -1,6 +1,11 @@
 # Practicing Iteration
 Edward R, 7-11-17, Working
 
+COMPLETED:
+[X]  Increment by 10
+[X]  Decrement by division
+[_]  Array iteration
+[_]  Object iteration
 
 ## Requirements
 

@@ -1,11 +1,12 @@
 # Practicing Iteration
-Edward R, 7-11-17, Working
+Edward R, 7-11-17, Completed.
 
 COMPLETED:
 [X]  Increment by 10
 [X]  Decrement by division
-[_]  Array iteration
-[_]  Object iteration
+[X]  Array iteration
+[X]  Object iteration
+[X]  EXTRA CREDIT:  Create homepage to display output of javascripts.
 
 ## Requirements
 

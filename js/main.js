@@ -28,9 +28,17 @@ for (let i = 4096; i > 1; i = i / 2) {
 
 //ARRAY INTERATION
 
+console.log("**************************");
+console.log("DECREMENT BY DIVISION");
+console.log("**************************");
+
 
 
 //OBJECT ITERATION
+
+console.log("**************************");
+console.log("DECREMENT BY DIVISION");
+console.log("**************************");
 
 
 
